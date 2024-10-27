@@ -8,7 +8,7 @@ Usage
 
 Import as a Hugo module
 ```bash
-hugo mod get github.com/atishay/hugo-debug-utils
+hugo mod get github.com/clondon/hugo-debug-utils
 ```
 
 Add in your template.
